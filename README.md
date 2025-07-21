@@ -42,4 +42,5 @@ lib/
 ## Desenvolvido Por
 
 Maria Clara Ferreira Lopes
+
 Estudante Técnico em Informática – Cotemig
